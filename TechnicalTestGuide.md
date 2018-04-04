@@ -4,7 +4,7 @@ To run the test please download katalan studio (https://www.katalon.com/)
 
 Also make sure - Java 8+ is installed and so as FireFox and Chrome
 
-To run the test from CommandPrompt - Please Open the folder where Katalon is downloaded and run the batch file added here - RunviaChrom.bat and RunViaFireFox.bat
+To run the test from CommandPrompt - Please Open the folder where Katalon is downloaded and run the batch file added here - RunviaChrom.bat and RunViaFireFox.bat. These batch files can also be added to Task Scheduler to run at a desireable time.
 
 To run the test from Katalon Studio - Please open the project in Katalon studio - go to Test suit and run (the quick demo attached shows how to do that) (Recomended).
 
