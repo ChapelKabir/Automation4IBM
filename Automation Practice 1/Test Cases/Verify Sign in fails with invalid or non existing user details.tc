@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Sign in fails with invalid or non existing user details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0af978e-e152-4a4f-9127-c4e97ddb006d</testCaseGuid>
+</TestCaseEntity>

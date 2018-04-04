@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Browsing around the menus works without error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc0b7f66-e21a-4fc7-97dc-2738dc0d7e9b</testCaseGuid>
+</TestCaseEntity>

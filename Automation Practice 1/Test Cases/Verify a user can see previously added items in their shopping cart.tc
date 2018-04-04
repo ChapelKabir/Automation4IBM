@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a user can add items to their shopping cart and log off log back on and still  can see the previously added items in their cart</description>
+   <name>Verify a user can see previously added items in their shopping cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>213b132c-e0f2-43ee-8fb7-3c6148ff7a1c</testCaseGuid>
+</TestCaseEntity>
